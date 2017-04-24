@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Lekcja5</string>
+<string-array name="phones">
+    <item>iPhone 6s</item>
+    <item>Samsung Galaxy S7</item>
+    <item>Nokia 6310i</item>
+</string-array>
+<string name="title_activity_i_phone6s">iPhone6s</string>
+<string name="title_activity_samsung_galaxy_s7">SamsungGalaxyS7</string>
+<string name="title_activity_nokia6310i">Nokia6310i</string>
+<string-array name="iphone">
+    <item>Procesor: Apple A9 1,5GHz</item>
+    <item>Pamięć wbudowana: 16 GB</item>
+    <item>Pamięć RAM: 2GB</item>
+</string-array>
+<string-array name="nokia">
+    <item>Procesor: Nieznany</item>
+    <item>Pamięć wbudowana: 500 kontaktów</item>
+    <item>Pamięć RAM: Nieznany</item>
+</string-array>
+<string-array name="samsung">
+    <item>Procesor: Exynos 8890 2,3GHz</item>
+    <item>Pamięć wbudowana: 32 GB</item>
+    <item>Pamięć RAM: 4 GB</item>
+</string-array>
+</resources>
